@@ -1,4 +1,4 @@
-Language: [EN](https://github.com/EvansTrein/Naval-combat/edit/main/README.md), [RU]()
+Language: [EN](https://github.com/EvansTrein/Naval-combat/edit/main/README.md), [RU](https://github.com/EvansTrein/Naval-combat/blob/main/README_RU.md)
 
 
 Realisation of a naval combat game in the simplest variant.
