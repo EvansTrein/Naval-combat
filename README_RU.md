@@ -1,4 +1,4 @@
-Language: [EN](https://github.com/EvansTrein/Naval-combat/edit/main/README.md), [RU](https://github.com/EvansTrein/Naval-combat/blob/main/README_RU.md)
+Language: [EN](https://github.com/EvansTrein/Naval-combat/blob/main/README.md), [RU](https://github.com/EvansTrein/Naval-combat/blob/main/README_RU.md)
 
 Реализация игры морской бой в самом простом варианте.
 
