@@ -1,3 +1,5 @@
+Language: [EN](https://github.com/EvansTrein/Naval-combat/edit/main/README.md), [RU](https://github.com/EvansTrein/Naval-combat/blob/main/README_RU.md)
+
 Реализация игры морской бой в самом простом варианте.
 
 Мне хотелось сделать проект с графическим интерфейсом и pygame отлично подошел для этого + в детстве нравилась эта игра.
