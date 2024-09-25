@@ -10,4 +10,4 @@ Language: [EN](https://github.com/EvansTrein/Naval-combat/blob/main/README.md), 
 
 # Как запустить
 У вас на компьютере должен быть установален python.
-Клонируйте репозиторий - установите зависимости (`pip3 install -r requirements.txt`) - откройте проект и пропишите в консоле (`python main.py`)
+Клонируйте репозиторий - установите зависимости (`pip3 install -r requirements.txt`) - откройте проект и пропишите в терминале (`python main.py`)
