@@ -1,3 +1,5 @@
+![](screenshot.png)
+
 Language: [EN](https://github.com/EvansTrein/Naval-combat/blob/main/README.md), [RU](https://github.com/EvansTrein/Naval-combat/blob/main/README_RU.md)
 
 # Что это
