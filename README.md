@@ -1,6 +1,6 @@
-![](screenshot.png)
-
 Language: [EN](https://github.com/EvansTrein/Naval-combat/blob/main/README.md), [RU](https://github.com/EvansTrein/Naval-combat/blob/main/README_RU.md)
+
+![](screenshot.png)
 
 # What it is
 Realisation of the naval combat game in the simplest version.
